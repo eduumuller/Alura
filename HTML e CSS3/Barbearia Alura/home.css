@@ -37,7 +37,7 @@ nav a:hover {
 	width: 100%;
 }
 
-.descricao{
+#descricao{
 	text-align: center;
 	font-size: 18px;
 	padding: 10px;
@@ -47,7 +47,7 @@ nav a:hover {
 	background: #CCCCCC;
 }
 
-.descricao:hover {
+#descricao:hover {
 	border-color: #C78C19;
 }
 
@@ -68,7 +68,7 @@ h2 {
 	padding: 10px;
 }
 
-.beneficios {
+#beneficios {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
@@ -81,7 +81,7 @@ h2 {
 	text-align: center;
 }
 
-.beneficios:hover {
+#beneficios:hover {
 	border-color: #C78C19;
 }
 
